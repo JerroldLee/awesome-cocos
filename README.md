@@ -14,3 +14,5 @@
 > 微信小游戏代码热更新技术：https://gitee.com/jianyumofa/qyscript
 
 > 成语游戏：https://forum.cocos.org/t/cocoscreator-1/86258
+
+> 拇指篮球：https://forum.cocos.org/t/3d/86638
