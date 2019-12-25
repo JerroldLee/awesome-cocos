@@ -10,3 +10,5 @@
 > Cocos3D音乐可视化：https://github.com/KuoKuo666/Cocos3D-Music
 
 > 微信小游戏排行榜demo 使用微信自带api：https://github.com/weishuluo/creator_wechat_rank_demo
+
+> 微信小游戏代码热更新技术：https://gitee.com/jianyumofa/qyscript
