@@ -12,3 +12,5 @@
 > 微信小游戏排行榜demo 使用微信自带api：https://github.com/weishuluo/creator_wechat_rank_demo
 
 > 微信小游戏代码热更新技术：https://gitee.com/jianyumofa/qyscript
+
+> 成语游戏：https://forum.cocos.org/t/cocoscreator-1/86258
