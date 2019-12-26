@@ -16,3 +16,5 @@
 > 成语游戏：https://forum.cocos.org/t/cocoscreator-1/86258
 
 > 拇指篮球：https://forum.cocos.org/t/3d/86638
+
+> 开发范例：https://github.com/cocos-creator/example-cases
