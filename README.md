@@ -18,3 +18,9 @@
 > 拇指篮球：https://forum.cocos.org/t/3d/86638
 
 > 开发范例：https://github.com/cocos-creator/example-cases
+
+> 刮刮乐：https://gitee.com/wolfdong7/guaguale
+
+> 如何在cocos create中实现刮刮卡效果：https://blog.csdn.net/qq_43788640/article/details/88748041
+
+> Cocos Creator 橡皮差(刮刮卡)功能：https://www.cnblogs.com/luorende/p/9214163.html
