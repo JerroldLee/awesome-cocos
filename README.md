@@ -24,3 +24,5 @@
 > 如何在cocos create中实现刮刮卡效果：https://blog.csdn.net/qq_43788640/article/details/88748041
 
 > Cocos Creator 橡皮差(刮刮卡)功能：https://www.cnblogs.com/luorende/p/9214163.html
+
+> Cocos Creator API(方便查找)：https://blog.csdn.net/magic_code_/article/details/87921888
