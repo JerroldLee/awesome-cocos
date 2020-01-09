@@ -26,3 +26,5 @@
 > Cocos Creator 橡皮差(刮刮卡)功能：https://www.cnblogs.com/luorende/p/9214163.html
 
 > Cocos Creator API(方便查找)：https://blog.csdn.net/magic_code_/article/details/87921888
+
+> Cocos Creator 新手引导框架：https://github.com/ShawnZhang2015/GodGuide
