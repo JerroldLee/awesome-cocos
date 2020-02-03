@@ -32,3 +32,5 @@
 > 当官消消乐：https://github.com/yintian2/pop_stars_master
 
 > 微信小游戏利用开放数据域制作好友排行：https://github.com/zhzl/wx-rank
+
+> 一个Cocos Creator使用的应用基础框架：https://github.com/ustchcl/CocosProjectTemplate
