@@ -28,3 +28,5 @@
 > Cocos Creator API(方便查找)：https://blog.csdn.net/magic_code_/article/details/87921888
 
 > Cocos Creator 新手引导框架：https://github.com/ShawnZhang2015/GodGuide
+
+> 当官消消乐：https://github.com/yintian2/pop_stars_master
