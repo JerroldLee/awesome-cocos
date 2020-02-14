@@ -34,3 +34,5 @@
 > 微信小游戏利用开放数据域制作好友排行：https://github.com/zhzl/wx-rank
 
 > 一个Cocos Creator使用的应用基础框架：https://github.com/ustchcl/CocosProjectTemplate
+
+> COCOS CREATOR动画的几种创建方式：http://www.freesion.com/article/2930133982/
